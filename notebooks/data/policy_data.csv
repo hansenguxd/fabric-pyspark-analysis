@@ -1,0 +1,7 @@
+policy_id,plan_id,client_id,coverage_amount
+1,plan1,client1,100000
+2,plan2,client2,150000
+3,plan3,client3,200000
+4,plan1,client4,120000
+5,plan2,client5,180000
+6,plan3,client6,250000
